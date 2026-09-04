@@ -3,7 +3,7 @@
 
 
 <p style='text-align:center'>
-<img src='assets/main-roadmap.png' style='width:50%'/>
+<img src='assets/main-roadmap.png' style='width:80%'/>
 </p>
 
 ---
