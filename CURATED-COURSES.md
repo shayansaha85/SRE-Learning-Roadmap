@@ -11,7 +11,7 @@
 | 5 | All About Toil in SRE        | https://sre.google/sre-book/eliminating-toil/                                         |
 | 6 | CI/CD                        | https://www.redhat.com/en/topics/devops/what-is-ci-cd                                 |
 
-## Free Courses from YouTube
+## Free Courses (YouTube)
 
 | #  | Topic                                                                                           | Link                                                                                     |
 | -- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@
 | 10 | Jenkins Full Course                                                                             | https://www.youtube.com/watch?v=woMAXn4e8NA                                              |
 
 
-## Paid Courses from New Relic
+## Paid Courses (Udemy)
 
 | # | Course                                   | Link                                                                                      |
 | - | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
