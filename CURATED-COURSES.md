@@ -22,7 +22,7 @@
 | 5  | Observability Zero to Hero                                                                      | https://youtube.com/playlist?list=PLdpzxOOAlwvJUIfwmmVDoPYqXXUNbdBmb&si=YSQstyGn080fnKKI |
 | 6  | Full Git & GitHub                                                                               | http://youtube.com/watch?v=mAFoROnOfHs                                                   |
 | 7  | Learn Linux                                                                                     | https://www.youtube.com/watch?v=ldgl9Bd3lLg                                              |
-| 8  | Spinning Ubuntu VM inside Windows — **Most Important Setup Before Proceeding with Below Video** | https://www.youtube.com/watch?v=sBWTqVPB2MM                                              |
+| 8  | Spinning Ubuntu VM inside Windows (**Most Important Setup Before Proceeding with Below Video #9**) | https://www.youtube.com/watch?v=sBWTqVPB2MM                                              |
 | 9  | Using Prometheus / Grafana                                                                      | https://www.youtube.com/watch?v=7gW5pSM6dlU                                              |
 | 10 | Jenkins Full Course                                                                             | https://www.youtube.com/watch?v=woMAXn4e8NA                                              |
 
